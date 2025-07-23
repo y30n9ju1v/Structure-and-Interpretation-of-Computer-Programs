@@ -1,0 +1,3 @@
+[submodule "Eng/sicp_markdown"]
+	path = Eng/sicp_markdown
+	url = https://github.com/thomasjm/sicp_markdown.git
